@@ -1,5 +1,5 @@
 # Cdu_Project
-java web使用structs结合ExtJS实现管理员页面权限管理 <br/>
+java web使用struts结合ExtJS实现管理员页面权限管理 <br/>
 数据库文件地址：http://pan.baidu.com/s/1kUjshd9  <br/>
 主要思路： <br/>
 Manager（管理员登录表） <br/>
